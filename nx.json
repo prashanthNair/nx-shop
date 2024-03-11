@@ -1,4 +1,6 @@
 {
+  "nxCloudAccessToken": "NGU4ZWJiOTctZDU1MC00NTdiLTg3ZmUtNzEyZjc0Nzg3OTMxfHJlYWQtd3JpdGU=",
+  "nxCloudUrl": "https://cloud.nx.app",
   "affected": {
     "defaultBase": "origin/main"
   },
